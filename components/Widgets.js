@@ -33,7 +33,7 @@ const Widgets = ({ trendingResults, followResults }) => {
       pt-2 rounded-xl w-11/12 xl:w-11/12      
       "
       >
-        <h4 className="font-bold text-xl px-4">What's happening</h4>
+        <h4 className="font-bold text-xl px-4">What is happening</h4>
 
         {trendingResults.map((result, index) => (
           <Trending key={index} result={result} />

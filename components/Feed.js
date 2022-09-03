@@ -26,7 +26,7 @@ const Feed = () => {
     >
       <div
         className="text-[#d9d9d9] flex items-center sm:justify-between
-    py-5 px-3 sticky top-0 z-50  backdrop-blur-xl
+        px-1.5 py-2  sticky top-0 z-50  backdrop-blur-xl
     "
       >
         <h2 className=" text-lg sm:text-xl font-bold">Home</h2>
