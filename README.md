@@ -35,13 +35,13 @@ Check out the live demo https://next-js-twitter-clone-pi.vercel.app
 1. **Clone the repository:**
     
     ```bash
-    git clone https://github.com/Shaban-Eissa/React-Twitter-Clone.git
+    git clone https://github.com/Shaban-Eissa/NextJS-Twitter-Clone.git
     ```
     
 2. **Install dependencies:**
     
     ```bash
-    cd React-Twitter-Clone
+    cd NextJS-Twitter-Clone
     npm install
     ```
 
