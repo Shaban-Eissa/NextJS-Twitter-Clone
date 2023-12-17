@@ -28,7 +28,7 @@ A full-stack Twitter clone built with Next, React, Firebase. This project aims t
 
 <img src="https://github.com/Shaban-Eissa/NextJS-Twitter-Clone/assets/49924090/baf3a2f1-a8ae-4b2f-86a1-e19edf5282e6" width="900" height="380" />
 <br />
-Check out the live demo 
+Check out the live demo https://next-js-twitter-clone-pi.vercel.app
 
 ## Installation
 
