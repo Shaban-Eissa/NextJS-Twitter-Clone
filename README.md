@@ -1,4 +1,4 @@
-# React Twitter Clone
+# NextJS Twitter Clone
 
 <img src="https://github.com/Shaban-Eissa/NextJS-Twitter-Clone/assets/49924090/bce78ad7-28ca-494e-b834-c13a4b4bc65a" width="300" height="300" />
 
